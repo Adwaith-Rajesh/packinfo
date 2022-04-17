@@ -1,0 +1,3 @@
+astpretty
+pre-commit
+pytest
